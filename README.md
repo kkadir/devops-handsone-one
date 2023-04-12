@@ -1,3 +1,5 @@
+![example workflow](https://github.com/kkadir/devops-handsone-one/actions/workflows/main.yml/badge.svg)
+
 ## Micronaut 3.8.3 Documentation
 
 - [User Guide](https://docs.micronaut.io/3.8.3/guide/index.html)
