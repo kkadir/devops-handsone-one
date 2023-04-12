@@ -1,4 +1,4 @@
-![example workflow](https://github.com/kkadir/devops-handsone-one/actions/workflows/main.yml/badge.svg)
+![Gradle Workflow](https://github.com/kkadir/devops-handsone-one/actions/workflows/gradle.yml/badge.svg)
 
 ## Micronaut 3.8.3 Documentation
 
